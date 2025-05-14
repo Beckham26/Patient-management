@@ -28,3 +28,18 @@ View prescriptions and doctor reports
 Book and manage appointments
 
 Update personal health information
+
+
+📌 Future Improvements
+Email & SMS notifications
+
+Analytics dashboard for admin
+
+Integration with wearable health devices
+
+Real-time chat between doctors and patients
+
+🧑‍💻 Authors
+Beckham Mwakanjuki
+Email: mwakanjukibeckham@gmail.com
+Phone: +255759002149
